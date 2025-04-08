@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Saturation Mod</string>
+    <string name="widget_description">Toggle Screen Saturation</string>
 </resources>
