@@ -1,0 +1,55 @@
+# Skompilowane pliki aplikacji
+*.aab
+*.ap_
+
+# Pliki dla maszyny wirtualnej ART/Dalvik
+*.dex
+
+# Skompilowane pliki Java
+*.class
+
+# Wygenerowane pliki i foldery budowania
+# Ignoruje wszystkie foldery 'build' w projekcie (np. app/build)
+*/build/
+# Ignoruje folder build na poziomie głównym projektu
+build/
+# Czasem generowane źródła, zwykle w 'build', ale dla pewności
+*/generated/
+
+# Pliki Gradle
+.gradle/
+
+# Lokalne pliki konfiguracyjne (nigdy nie dodawaj do repozytorium!)
+local.properties
+
+# Pliki konfiguracyjne IDE (Android Studio / IntelliJ)
+# Zazwyczaj specyficzne dla użytkownika, lepiej ignorować całość
+.idea/
+# Alternatywnie, jeśli chcesz wersjonować np. styl kodowania:
+# .idea/caches/
+# .idea/libraries/
+# .idea/modules.xml
+# .idea/navEditor.xml
+# .idea/workspace.xml
+# .idea/.name
+
+# Folder z przechwyceniami Android Studio
+captures/
+
+# Pliki logów
+*.log
+
+# Pliki kluczy (BARDZO WAŻNE! Nigdy nie dodawaj do repozytorium!)
+*.jks
+*.keystore
+
+# Pliki systemowe
+.DS_Store
+Thumbs.db
+
+# Wyniki Lint
+lint-results-*.xml
+
+# Pliki pośrednie C/C++ (jeśli używasz NDK)
+*/obj/
+*/libs/
