@@ -34,19 +34,19 @@ The app directly interacts with the system's `SurfaceFlinger` service using inte
 
 **Main App Interface:**
 <br/>
-<img src="./readme_screenshots/main_ui.png" alt="Main App UI" width="70%">
+<img src="./readme_screenshots/main_ui.png" alt="Main App UI" width="60%">
 <br/>
 *(Shows the slider, value display, apply button, and info icon)*
 
 **Homescreen Widget:**
 <br/>
-<img src="./readme_screenshots/widget.png" alt="Widget" width="70%">
+<img src="./readme_screenshots/widget.png" alt="Widget" width="60%">
 <br/>
 *(Shows the 1x1 widget used for toggling)*
 
 **Information Dialog:**
 <br/>
-<img src="./readme_screenshots/info_dialog.png" alt="Info Dialog" width="70%">
+<img src="./readme_screenshots/info_dialog.png" alt="Info Dialog" width="60%">
 <br/>
 *(Shows the pop-up displayed when the info button is pressed)*
 
